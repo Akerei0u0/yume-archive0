@@ -1,0 +1,14 @@
+{
+  "accentColor": "#ea809a",
+  "showRibbon": true,
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "icon-hidden",
+    "custom-list-style",
+    "hide-icon",
+    "hide-scrollbar"
+  ],
+  "theme": "system"
+}

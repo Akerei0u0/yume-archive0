@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "bd9937759042a4a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0b7965928ab6cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4a9df200fbf0285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/a.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "a"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fb8d1ca14122941",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "80a5d23849eadba9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "main/a.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "259cc9297f65f4ee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "yume0.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9d04f6bc06e8853b",
+    "type": "mobile-drawer",
+    "children": [],
+    "currentTab": -1
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "b4a9df200fbf0285",
+  "lastOpenFiles": [
+    "yume/71.md",
+    "main/a.md",
+    "yume0.md",
+    "wiki/71.md",
+    "main/tea.md",
+    "wiki/wiki22.md",
+    "main/wiki.md",
+    "wiki/wiki21.md",
+    "wiki/wiki17.md",
+    "wiki/wiki13.md",
+    "wiki/wiki12.md",
+    "wiki/wiki11.md",
+    "wiki/wiki9.md",
+    "wiki/wiki10.md",
+    "main/archive.md",
+    "yume/64.md",
+    "yume/64night.md",
+    "yume/64fly.md",
+    "yume/58.md",
+    "yume/3.md",
+    "yume/57safeCATuv.md",
+    "dreamers/kalaobi.md",
+    "yume/22Ba.md",
+    "yume/22.md",
+    "yume/41Ca.md",
+    "yume/41B.md"
+  ]
+}

@@ -1,0 +1,33 @@
+/* 隐藏外部链接图标 */
+.external-link {
+  background-image: none !important;
+  padding-right: 0 !important;
+}
+
+/* 确保阅读视图和实时预览视图都生效 */
+.markdown-source-view.mod-cm6 .cm-hyperlink.external-link {
+  background-image: none !important;
+  padding-right: 0 !important;
+}
+
+.markdown-reading-view .external-link {
+  background-image: none !important;
+  padding-right: 0 !important;
+}
+
+/* 隐藏右侧边栏的唤起图标 */
+.workspace-drawer-handle-right,
+.workspace-drawer-handle[data-side="right"],
+.sidebar-toggle-button.mod-right {
+    display: none !important;
+}
+
+/* 如果上述选择器不生效，尝试以下更广泛的选择器 */
+.workspace-drawer-handle:is([data-side="right"], .mod-right) {
+    display: none !important;
+}
+
+/* 隐藏悬浮在右侧的唤出按钮（如果有） */
+.workspace-drawer-vault-decoration[data-side="right"] {
+    display: none !important;
+}

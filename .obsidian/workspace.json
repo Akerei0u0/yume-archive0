@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c7005e5800fcb062",
+    "type": "split",
+    "children": [
+      {
+        "id": "9966542a067bb2fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17b08d8c09ac70f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yume0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "yume0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe1d18aec4a6af51",
+    "type": "split",
+    "children": [
+      {
+        "id": "359f9f242572132c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14bce21aa93a4cc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "6a3fb067f99f660a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "yume0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "yume0 的出链列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cdfe68c0216e1258",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "17b08d8c09ac70f0",
+  "lastOpenFiles": []
+}

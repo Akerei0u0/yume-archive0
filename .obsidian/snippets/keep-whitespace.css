@@ -1,0 +1,4 @@
+/* 让阅读模式保留连续的空行高度 */
+.markdown-rendered p:empty::before {
+    content: "\00a0";
+}

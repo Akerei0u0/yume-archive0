@@ -1,0 +1,60 @@
+/* 隐藏垂直滚动条 */
+::-webkit-scrollbar {
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+    background: transparent !important;
+}
+
+/* 隐藏水平滚动条 */
+::-webkit-scrollbar-horizontal {
+    display: none !important;
+    height: 0 !important;
+}
+
+/* 隐藏滚动条轨道 */
+::-webkit-scrollbar-track {
+    display: none !important;
+    background: transparent !important;
+}
+
+/* 隐藏滚动条滑块 */
+::-webkit-scrollbar-thumb {
+    display: none !important;
+    background: transparent !important;
+}
+
+/* Firefox 浏览器支持 */
+* {
+    scrollbar-width: none !important;
+    -ms-overflow-style: none !important;
+}
+
+/* 确保所有可滚动区域都隐藏滚动条 */
+.workspace-leaf-content,
+.markdown-source-view,
+.markdown-preview-view,
+.cm-scroller,
+.view-content,
+.mod-root,
+.workspace-split,
+.workspace-tabs,
+.workspace-leaf,
+.modal,
+.dropdown,
+input,
+textarea,
+select {
+    scrollbar-width: none !important;
+    -ms-overflow-style: none !important;
+}
+
+.workspace-leaf-content::-webkit-scrollbar,
+.markdown-source-view::-webkit-scrollbar,
+.markdown-preview-view::-webkit-scrollbar,
+.cm-scroller::-webkit-scrollbar,
+.view-content::-webkit-scrollbar {
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+}
